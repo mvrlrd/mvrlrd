@@ -10,6 +10,9 @@
 <a href="https://github.com/mvrlrd/PlaylistMaker-YP" target="_blank">PlaylistMaker</a>     <a target="_blank">приложение для прослушивания музыки и составления плейлистов </a>
 
 <a target="_blank">стек: MVVM, Retrofit2, Koin, Room, Coroutines</a>
+
+<a href="https://github.com/mvrlrd/SpaceGameGB2" target="_blank">SpaceGame</a>    мультиплатформенная игра космический шутер
+framework libGDX
  
 
 <!--
