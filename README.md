@@ -14,7 +14,7 @@
 <a href="https://github.com/mvrlrd/SpaceGameGB2" target="_blank">SpaceGame</a>    мультиплатформенная игра космический шутер
 framework libGDX
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvrlrd&theme=solarized_dark)
 <!--
 **mvrlrd/mvrlrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
