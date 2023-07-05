@@ -13,7 +13,7 @@
     <div>Второй блок текста</div>
 </body>
 
-<pre>• Программирование на Kotlin •SOLID, KISS, DRY, MVVM, MVP, MVC • Работа с сетью и клиент-серверное взаимодействие • Инструментарий: Android Studio, github, Figma • Понимание основных паттернов проектирования • Создание адаптивного интерфейса приложения и работа с анимацией • Retrofit2, RxJava, Coroutines, Flow, Room, Dagger, Koin •</pre> 
+<p>• Программирование на Kotlin •SOLID, KISS, DRY, MVVM, MVP, MVC • Работа с сетью и клиент-серверное взаимодействие • Инструментарий: Android Studio, github, Figma • Понимание основных паттернов проектирования • Создание адаптивного интерфейса приложения и работа с анимацией • Retrofit2, RxJava, Coroutines, Flow, Room, Dagger, Koin •</p> 
 
 <h4 align="center">Мои проекты:</h4>
 
