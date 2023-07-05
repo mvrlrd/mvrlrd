@@ -7,8 +7,8 @@
 
 <h4 align="center">Мои проекты:</h4>
 
-<a href="https://github.com/mvrlrd/PlaylistMaker-YP" target="_blank">PlaylistMaker</a>  
-<a target="_blank">сприложение для прослушивания музыки и составления плейлистов</a>
+<a href="https://github.com/mvrlrd/PlaylistMaker-YP" target="_blank">PlaylistMaker</a>  <a target="_blank">сприложение для прослушивания музыки и составления плейлистов\n</a>
+
 <a target="_blank">стек: MVVM, Retrofit2, Koin, Room, Coroutines</a>
  
 
