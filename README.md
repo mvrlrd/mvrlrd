@@ -16,7 +16,7 @@ framework libGDX
 
 <a href="https://github.com/mvrlrd/sickdopeskills" target="_blank">• SickDopeSkills</a>    мультиплатформенная игра - слалом на сноуборде
 framework libGDX
-<img src="/Users/mvrlrd/Desktop/sickdopeskills/скриншоты/Снимок экрана 2023-07-05 в 19.59.49.png">
+<img src="https://timeweb.com/ru/community/article/42/426d92a21f1b8cccb91bc0b05639aefd_thumb.jpg">
 
 
 
