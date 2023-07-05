@@ -14,7 +14,9 @@
 <a href="https://github.com/mvrlrd/SpaceGameGB2" target="_blank">SpaceGame</a>    мультиплатформенная игра космический шутер
 framework libGDX
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvrlrd)](https://github.com/mvrlrd/github-readme-stats)
+
+
+
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvrlrd&theme=solarized_dark)
 <!--
