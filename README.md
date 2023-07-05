@@ -11,7 +11,7 @@
    стек:
     <body target="_blank"> MVVM, Retrofit2, Koin, Room, Coroutines</body>
 
-<a href="https://github.com/mvrlrd/SpaceGameGB2" target="_blank">• SpaceGame</a>    мультиплатформенная игра космический шутер
+<a href="https://github.com/mvrlrd/SpaceGameGB2" target="_blank">• SpaceGame</a>    мультиплатформенная игра - космический шутер
 framework libGDX
 
 
