@@ -5,7 +5,7 @@
 
 
 Мой стек:
-• Программирование на Swift • Базы данных: Realm, CoreData • UIKit, MVVM, MVP, MVC, Unit-Tests, UI-Tests, KISS, DRY • Верстка кодом, AutoLayout, Xib, Storyboards • Работа с сетью и клиент-серверное взаимодействие • Инструментарий: xcode, github, Figma, Sourcetree • Понимание основных паттернов проектирования • Создание адаптивного интерфейса приложения и работа с анимацией
+• Программирование на Kotlin • SOLID, KISS, DRY, MVVM, MVP, MVC • Работа с сетью и клиент-серверное взаимодействие • Инструментарий: Android Studio, github, Figma • Понимание основных паттернов проектирования • Создание адаптивного интерфейса приложения и работа с анимацией • Retrofit2, RxJava, Coroutines, Flow, Room, Dagger, Koin •
 <!--
 **mvrlrd/mvrlrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
