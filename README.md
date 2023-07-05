@@ -7,7 +7,7 @@
 
 <h4 align="center">Мои проекты:</h4>
 
-<a href="https://github.com/mvrlrd/PlaylistMaker-YP" target="_blank">PlaylistMaker</a> 
+<a href="https://github.com/mvrlrd/PlaylistMaker-YP" target="_blank">PlaylistMaker</a>  приложение
  
 
 <!--
