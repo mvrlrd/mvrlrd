@@ -4,11 +4,16 @@
 <h4 align="center">Мой стек:</h4>
 
 
-<p>p {
-	font-size: 20px;     
-	font-style: italic;  
-	font-weight: bold;  
-}• Программирование на Kotlin •</p> SOLID, KISS, DRY, MVVM, MVP, MVC • Работа с сетью и клиент-серверное взаимодействие • Инструментарий: Android Studio, github, Figma • Понимание основных паттернов проектирования • Создание адаптивного интерфейса приложения и работа с анимацией • Retrofit2, RxJava, Coroutines, Flow, Room, Dagger, Koin •
+<head>
+    <title>Блоки</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <div>Первый блок текста</div>
+    <div>Второй блок текста</div>
+</body>
+
+<p>• Программирование на Kotlin •</p> SOLID, KISS, DRY, MVVM, MVP, MVC • Работа с сетью и клиент-серверное взаимодействие • Инструментарий: Android Studio, github, Figma • Понимание основных паттернов проектирования • Создание адаптивного интерфейса приложения и работа с анимацией • Retrofit2, RxJava, Coroutines, Flow, Room, Dagger, Koin •
 
 <h4 align="center">Мои проекты:</h4>
 
