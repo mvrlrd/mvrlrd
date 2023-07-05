@@ -1,7 +1,11 @@
 <h1 align="center">Привет!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я Игорь Белых, Андроид разработчик 🇷🇺</h3>
+<h2 align="center">Мой стек:</h2>
 
+
+Мой стек:
+• Программирование на Swift • Базы данных: Realm, CoreData • UIKit, MVVM, MVP, MVC, Unit-Tests, UI-Tests, KISS, DRY • Верстка кодом, AutoLayout, Xib, Storyboards • Работа с сетью и клиент-серверное взаимодействие • Инструментарий: xcode, github, Figma, Sourcetree • Понимание основных паттернов проектирования • Создание адаптивного интерфейса приложения и работа с анимацией
 <!--
 **mvrlrd/mvrlrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
