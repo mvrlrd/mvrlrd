@@ -9,11 +9,11 @@
 
 <a align="center" href="https://github.com/mvrlrd/PlaylistMaker-YP" target="_blank">• PlaylistMaker</a>    <a target="_blank">приложение для прослушивания музыки и составления плейлистов </a><br> 
    стек:<br>
-    <body target="_blank"> MVVM,<br> Retrofit2,<br> Koin,<br> Room,<br> Coroutines,<br> Flow</body>
+    <body target="_blank">•MVVM,<br>•Retrofit2,<br>•Koin,<br>•Room,<br>•Coroutines,<br>•Flow</body>
 
 <a href="https://github.com/MargaritaBespalova/JobSearchEngine" target="_blank">• JobSearchEngine</a>    приложение для поиска работы<br>
 стек:<br>
-    <body target="_blank"> MVVM,<br> Retrofit2,<br> Dagger2,<br> Room,<br> Coroutines,<br> Flow</body>
+    <body target="_blank">•MVVM,<br>•Retrofit2,<br>•Dagger2,<br>•Room,<br>•Coroutines,<br>•Flow</body>
 
 <a href="https://github.com/mvrlrd/sickdopeskills" target="_blank">• SickDopeSkills</a>    мультиплатформенная игра - слалом на сноуборде
 framework libGDX
