@@ -11,7 +11,7 @@
    стек:
     <body target="_blank"> MVVM, Retrofit2, Koin, Room, Coroutines, Flow</body>
 
-<a href="https://github.com/MargaritaBespalova/JobSearchEngine" target="_blank">• JobSearchEngine</a>    приложение для поиска работы
+<a href="https://github.com/MargaritaBespalova/JobSearchEngine" target="_blank">• JobSearchEngine</a>    приложение для поиска работы<br>
 стек:
     <body target="_blank"> MVVM, Retrofit2, Dagger2, Room, Coroutines, Flow</body>
 
