@@ -9,10 +9,11 @@
 
 <a align="center" href="https://github.com/mvrlrd/PlaylistMaker-YP" target="_blank">• PlaylistMaker</a>    <a target="_blank">приложение для прослушивания музыки и составления плейлистов </a><br> 
    стек:
-    <body target="_blank"> MVVM, Retrofit2, Koin, Room, Coroutines</body>
+    <body target="_blank"> MVVM, Retrofit2, Koin, Room, Coroutines, Flow</body>
 
-<a href="https://github.com/mvrlrd/SpaceGameGB2" target="_blank">• SpaceGame</a>    мультиплатформенная игра - космический шутер
-framework libGDX
+<a href="https://github.com/MargaritaBespalova/JobSearchEngine" target="_blank">• JobSearchEngine</a>    приложение для поиска работы
+стек:
+    <body target="_blank"> MVVM, Retrofit2, Dagger2, Room, Coroutines, Flow</body>
 
 <a href="https://github.com/mvrlrd/sickdopeskills" target="_blank">• SickDopeSkills</a>    мультиплатформенная игра - слалом на сноуборде
 framework libGDX
